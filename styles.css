@@ -1,0 +1,42 @@
+/*styles for the home's header*/
+#header1 {
+    padding: 1em 0 1em 0;
+    border: 1.5em 0 2em 0;
+    background-color:lightgray;
+    border-radius: 2em 2em 2em 2em;
+    float: left;
+    width: 12%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*styles for the home's section*/
+#section1 {
+    padding: .5em .5em .5em .5em;
+    border: 1.5em 0 2em 0;
+    border-radius: 2em 2em 2em 2em;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+/*styles for the home's footer*/
+#footer1 {
+    text-align: center;
+}
+
+/* styles for the resume's lines*/
+#hr1 { 
+    overflow: hidden; 
+    border-style: inset; 
+    border-width: 1px;
+}
+
+/*styles for the resume's header*/
+#h1resume2 {
+    color:grey;
+    font-size: 150%;
+}
+
+/*styles for the schedule*/
+table, th, td {
+    border: 1px solid black;
+  }
